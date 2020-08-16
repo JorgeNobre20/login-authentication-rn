@@ -21,5 +21,5 @@
   <li>✅ Styled-Components</li>
   <li>✅ Context-api</li>
   <li>✅ Styled Icons</li>
-  <li>✅ React Navigation V5</li>
+  <li>✅ React Navigation V5 </li>
 <ul>
